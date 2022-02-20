@@ -12,7 +12,7 @@ const Home: NextPage = (): JSX.Element => {
 			</Head>
 
 			<Header />
-			<h1>Hello World!</h1>
+			<h1 className="text-6xl">Hello World!</h1>
 			<Footer />
 		</div>
 	)
